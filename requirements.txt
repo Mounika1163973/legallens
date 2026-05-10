@@ -1,0 +1,11 @@
+streamlit
+pillow
+pytesseract
+PyMuPDF
+google-generativeai
+faiss-cpu
+sentence-transformers
+langdetect
+deep-translator
+python-dotenv
+scikit-learn
